@@ -131,34 +131,34 @@ global.vs = ""
 global.vsJB = ""
 global.gt = "𝗙𝗶𝗼𝗿𝗲 𝗕𝗼𝘁 🎀"
 
-global.yt = "https://www.instagram.com/cristhofer_yallico"
-global.yt2 = "https://www.instagram.com/jenn_dzzn"
-global.ig = "https://www.instagram.com/jenn_dzzn"
-global.md = "https://www.instagram.com/jenn_dzzn"
-global.fb = "https://www.instagram.com/jenn_dzzn"
-global.tk = "https://www.instagram.com/cristhofer_yallico"
-global.ths = "https://www.instagram.com/cristhofer_yallico"
-global.paypal = 'https://www.instagram.com/cristhofer_yallico'
+global.yt = "https://www.instagram.com/fiore.x7"
+global.yt2 = "https://www.instagram.com/fiore.x7"
+global.ig = "https://www.instagram.com/fiore.x7"
+global.md = "https://www.instagram.com/fiore.x7"
+global.fb = "https://www.instagram.com/fiore.x7"
+global.tk = "https://www.instagram.com/fiore.x7"
+global.ths = "https://www.instagram.com/fiore.x7"
+global.paypal = 'https://www.instagram.com/fiore.x7'
 global.asistencia = 'https://wa.me/51946542206?text=Hola%20Cris%20Deseo%20Comprar%20El%20Bot%20:3' //Contacto
-global.bot = 'https://wa.me/51946542206?text=Hola%20Pingui%20Deseo%20Comprar%20El%20Bot%20:3' //🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
+global.bot = 'https://wa.me/51946542206?text=Hola%20Cris%20Deseo%20Comprar%20El%20Bot%20:3' //🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://www.instagram.com/cristhofer_yallico' // Cuentas
-global.nn2 = 'https://www.instagram.com/jenn_dzzn' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/cristhofer_yallico' // Help
-global.nn = 'https://www.instagram.com/cristhofer_yallico' // Grupo 1
-global.nnn = 'https://www.instagram.com/jenn_dzzn' // Grupo 2
-global.nnnt = 'https://www.instagram.com/jenn_dzzn' // Grupo 3
-global.nnntt = 'https://www.instagram.com/jenn_dzzn' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/jenn_dzzn' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/jenn_dzzn' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/jenn_dzzn' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/jenn_dzzn' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/jenn_dzzn' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/jenn_dzzn' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/cristhofer_yallico' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/cristhofer_yallico'
-global.channel2 = 'https://www.instagram.com/cristhofer_yallico'
-global.channel3 = 'https://www.instagram.com/cristhofer_yallico'
+global.nna = 'https://www.instagram.com/fiore.x7' // Cuentas
+global.nn2 = 'https://www.instagram.com/fiore.x7' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/fiore.x7' // Help
+global.nn = 'https://www.instagram.com/fiore.x7' // Grupo 1
+global.nnn = 'https://www.instagram.com/fiore.x7' // Grupo 2
+global.nnnt = 'https://www.instagram.com/fiore.x7' // Grupo 3
+global.nnntt = 'https://www.instagram.com/fiore.x7' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/fiore.x7' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/fiore.x7' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/fiore.x7' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/fiore.x7' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/fiore.x7' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/fiore.x7' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/fiore.x7' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/fiore.x7'
+global.channel2 = 'https://www.instagram.com/fiore.x7'
+global.channel3 = 'https://www.instagram.com/fiore.x7'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
