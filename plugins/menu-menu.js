@@ -84,16 +84,15 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━〔 *__🎀. CREADOR 🎀_* 〕
+ ╭━〔 *_🎀. CREADOR 🎀_* 〕
 *┃➤ Creador : Fiore 🎀*
 *┃➤ Instagram : ${md} 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Usuarios :  ${rtotalreg}/${totalreg} 🌹*
-*┃➤ Yape 1 : +51 936 994 155 💸*
-*┃➤ Yape 2 : +51 991 619 710 💸*
+*┃➤ Numero : +51 946 542 206 💸*
  ╰━━━━━━━━━━━━━
   
-  ╭━〔 *__🎀 INFO 🎀_* 〕
+  ╭━〔 *_🎀 INFO 🎀_* 〕
  *┃➤* _${usedPrefix}Creador_
  *┃➤* _${usedPrefix}Velocidad_
  *┃➤* _${usedPrefix}Speedtest_
@@ -102,7 +101,7 @@ let menu =`
  *┃➤* _${usedPrefix}Donar_
   ╰━━━━━━━━━━━━━
   
-   ╭━〔 *__🎀 TRENDS TIK TOK 🎀_* 〕
+   ╭━〔 *_🎀 TRENDS TIK TOK 🎀_* 〕
  *┃➤* _${usedPrefix}TrendTikTok_
   ╰━━━━━━━━━━━━━
   
